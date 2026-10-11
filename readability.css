@@ -29,3 +29,7 @@
 @media(max-width:767px){.archive-card{flex-basis:86%}.archive-open img{height:270px}.archive-heading{padding-right:0}.archive-heading h3{font-size:21px}.archive-controls{position:static;margin-top:16px;justify-content:flex-end}.archive-heading p{font-size:12px}.archive-note{font-size:11px;line-height:1.8}}
 
 .mecenat-mark{width:fit-content;max-width:100%;margin:36px auto 0;padding:22px 28px;background:#fff}.mecenat-mark img{display:block;width:320px;max-width:100%;height:auto;object-fit:contain}@media(max-width:640px){.mecenat-mark{max-width:calc(100% - 24px);padding:18px 20px;margin-top:28px}.mecenat-mark img{width:280px}}
+
+/* A deep burgundy closing section, echoing the hero. */
+.steps{background:#3e1524;box-shadow:0 0 0 100vmax #3e1524;padding-top:76px;padding-bottom:76px}.steps>.eyebrow,.steps>div>.eyebrow{color:#dcc6a7}.steps h2{color:#fff5e8;text-shadow:0 2px 12px #19081030}.steps>div:first-child:after{content:'';display:block;width:84px;height:1px;background:#b49a75;margin-top:24px}.steps li{background:linear-gradient(145deg,#fffaf3,#eee5eb);border-color:#c0a78d;box-shadow:0 12px 30px #18081026}.steps li p{color:#615361}.steps .step-icon{background:linear-gradient(145deg,#fffaf2,#e5d4dc);border-color:#bc9caa;color:#743e54}.steps li .step-number{color:#87566a}.steps li:not(:last-child):after{color:#d4bb9a}
+@media(max-width:767px){.steps{padding-top:54px;padding-bottom:54px}.steps h2{color:#fff5e8}}
